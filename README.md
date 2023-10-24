@@ -30,10 +30,9 @@
 
 ## Screenshot
 
-|  Página Principal| Proximamente  |    
+|  Página Principal| Proximamente  | 
 | :------------: | :------------: | 
-|  <img src="https://i.postimg.cc/W3x0t9vb/ee.jpg" width="200"/> | <img src="https://i.postimg.cc/Pf8m0kWL/eee.jpg" width="200"/>  |
-
+|  <img src="https://i.postimg.cc/W3x0t9vb/ee.jpg" width="200"/> | <img src="https://i.postimg.cc/MH8XhgwR/z.jpg" width="200"/>  |
 
 
 
